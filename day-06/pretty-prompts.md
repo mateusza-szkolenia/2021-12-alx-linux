@@ -1,4 +1,4 @@
-#!/bin/bash
+# Kolorowy prompt
 
 1. Utworzyć katalog `bin`
 
