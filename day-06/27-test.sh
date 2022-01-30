@@ -3,7 +3,7 @@
 # TO DZIAŁA NIEZGODNIE Z OCZEKIWANIAMI
 # (porównanie słownikowe)
 
-a="12"
+a=12
 b="5"
 
 if test "$a" -lt "$b"
