@@ -1,9 +1,10 @@
 #!/bin/bash
 
 katalog='/etc'
-
+flaga=z
+rozszerzenie=gz
 dzisiaj="$(date +%F)"
 
-archiwum="$dzisiaj-etc.tar"
+archiwum="$dzisiaj-etc.tar.${rozszerzenie}"
 
-tar cf "$archiwum" "$katalog"
+tar "${flaga}"cf "$archiwum" "$katalog"
