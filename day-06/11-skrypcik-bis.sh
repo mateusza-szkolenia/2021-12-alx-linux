@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ustawienia.sh
+. ustawienia.sh
 
 echo "Imie: $imie"
 echo "Firma: $firma"
