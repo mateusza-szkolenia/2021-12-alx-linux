@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # napisze po prostu dzień dobry
 echo "Dzień dobry"
 id
