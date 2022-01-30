@@ -6,5 +6,5 @@ Przykład
 
 ```
 Podaj datę: 1985-07-10
-Dzień tygodnia: sobota
+Dzień tygodnia: środa
 ```
