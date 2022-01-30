@@ -1,5 +1,10 @@
+# napisze po prostu dzień dobry
 echo "Dzień dobry"
 id
+
+# nazwa użytkownika
 whoami
+
+# bieżąca data
 date
 
