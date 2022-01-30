@@ -2,7 +2,7 @@
 
 imie=Mateusz
 firma="ALX"
-szkolenie="Administrator Linux"
+szkolenie='Administrator Linux'
 
 echo "Nazywam się $imie. Pracuję w $firma. Prowadzę szkolenie $szkolenie"
 echo 'Nazywam się $imie. Pracuję w $firma. Prowadzę szkolenie $szkolenie'
