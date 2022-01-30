@@ -18,4 +18,5 @@
 | T | F | T      |
 | T | T | T      |
 
+<https://en.wikipedia.org/wiki/Short-circuit_evaluation>
 
