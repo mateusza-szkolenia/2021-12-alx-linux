@@ -2,7 +2,7 @@
 
 ## Koniunkcja (ORAZ, AND)
 
-| a | b | a && b |
+| a | b | `a && b` |
 |---|---|--------|
 | F | F | F      |
 | F | T | F      |
@@ -11,7 +11,7 @@
 
 ## Alternatywa (LUB, OR)
 
-| a | b | a || b |
+| a | b | `a || b` |
 |---|---|--------|
 | F | F | F      |
 | F | T | T      |
