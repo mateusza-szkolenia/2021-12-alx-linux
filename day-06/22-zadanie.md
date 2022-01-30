@@ -5,6 +5,8 @@ Napisać program, który zapyta użytkownika o rok urodzenia a następnie policz
 - czy może kandydować na senatora
 - czy może kandydować na prezydenta
 
+Użyć notacji `((a > b))`
+
 Przykład
 ```
 Podaj rok urodzenia: 1960
