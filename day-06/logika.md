@@ -11,7 +11,7 @@
 
 ## Alternatywa (LUB, OR)
 
-| a | b | `a || b` |
+| a | b | `a \|\| b` |
 |---|---|--------|
 | F | F | F      |
 | F | T | T      |
