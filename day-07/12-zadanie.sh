@@ -3,10 +3,9 @@
 for plik in *.sh
 do
 	linie=$(wc -l < "$plik")
-	if [ "$linie" -lt 15 ]
-	then
-		continue
-	fi
+
+	[ "$linie" -lt 15 ] && continue
+
 	echo "Plik: $plik ($linie)"
 done
 
