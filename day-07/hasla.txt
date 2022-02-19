@@ -1,0 +1,3 @@
+kurs:kurs
+root:al.root
+guest:alamakota123
